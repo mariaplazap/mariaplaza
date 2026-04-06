@@ -7,14 +7,6 @@ img: HowworkANDTeaser8.png # Add image post (optional)
 fig-caption:  # Add figcaption (optional)
 tags: [CHI26 Conference, Poster]
 ---
-
-<style>
-  /* Este código solo actúa en este post concreto */
-  .post-thumbnail, .post-img, .featured-image {
-    background-position: left center !important;
-    background-size: cover !important;
-  }
-</style>
 Exploring new methods for users to report VR sickness symptoms continuously and without breaking the immersion in VR.
 
 ## Overview
