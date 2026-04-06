@@ -4,10 +4,18 @@ title: "Design and evaluation of a continuous interface for real-time self-repor
 date: 2017-09-12 13:32:20 +0300
 #description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: HowdoesitworkCHI26.png # Add image post (optional)
-image_header: false
+body_class: hide-main-image
 fig-caption: # Add figcaption (optional)
 tags: [CHI26 Conference, Poster]
 ---
+<style>
+  .post-header-img, .post-image, .featured-image { 
+    display: none !important; 
+  }
+</style>
+
+![WebHeaderCHI26]({{site.baseurl}}/assets/img/HowworkANDTeaser8.png)
+
 Exploring new methods for users to report VR sickness symptoms continuously and without breaking the immersion in VR
 
 ## Overview
