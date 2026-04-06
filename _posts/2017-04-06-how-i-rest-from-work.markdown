@@ -26,4 +26,5 @@ Precise measurements of sickness symptoms induced during a virtual reality (VR) 
 
 ## Resources
 * [Download Extended Abstract (PDF)]({{ site.baseurl }}/assets/documents/CHI26Preprint.pdf)
+ _Note: CHI 2026 had an acceptance rate of 38.4% (2,068 submissions)._
 
