@@ -11,15 +11,13 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: María Plaza # add your name
 author-img: mariaplazagithub.JPG # add your photo
-about-author: > I am an  Industrial Design and Product Development Engineering PhD student at the University of Zaragoza, Spain, focusing on Perception and User Experience in Immersive Realities.
-  
-  _Site under construction._ # add description
+about-author: I am an  Industrial Design and Product Development Engineering PhD student at the University of Zaragoza, Spain, focusing on Perception and User Experience in Immersive Realities. (Site under construction) # add description
 #social-twitter: # add your Twitter handle
 #social-facebook: # add your Facebook handle
 #social-github: artemsheludko # add your Github handle
 social-linkedin: https://www.linkedin.com/in/mar%C3%ADa-plaza-p%C3%A9rez/ # add your Linkedin handle
 social-email: mplaza@unizar.es # add your Email address
-Social-university: https://graphics.unizar.es/
+social-university: https://graphics.unizar.es/
 
 # Disqus
 #discus-identifier: mr-brown # add your discus identifier
