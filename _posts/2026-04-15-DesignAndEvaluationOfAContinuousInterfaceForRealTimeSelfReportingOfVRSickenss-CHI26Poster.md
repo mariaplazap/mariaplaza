@@ -3,7 +3,8 @@ layout: post
 title: "Design and evaluation of a continuous interface for real-time self-reporting of VR sickness: CHI 2026 Poster"
 date: 2017-09-12 13:32:20 +0300
 #description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: HowdoesitworkCHI26.png # Add image post (optional)
+#img: HowdoesitworkCHI26.png # Add image post (optional)
+thumbnail: HowdoesitworkCHI26.png
 fig-caption: # Add figcaption (optional)
 tags: [CHI26 Conference, Poster]
 ---
