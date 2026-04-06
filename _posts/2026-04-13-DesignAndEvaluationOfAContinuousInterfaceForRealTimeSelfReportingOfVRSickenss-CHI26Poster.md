@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Design and evaluation of a continuous interface for real-time self-reporting of VR sickness: CHI 2026 Poster"
-date: 2026-04-15 13:32:20 +0300
+date: 2026-04-01 13:32:20 +0300
 #description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: HowdoesitworkCHI26.png # Add image post (optional)
 body_class: hide-main-image
