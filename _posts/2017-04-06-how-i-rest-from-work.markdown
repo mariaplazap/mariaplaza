@@ -22,7 +22,7 @@ Precise measurements of sickness symptoms induced during a virtual reality (VR) 
 </div>
 
 ## The Poster
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+![Poster CHI 2026]({{site.baseurl}}/assets/img/PosterChi26.png)
 
 ## Resources
 Download extended abstract
