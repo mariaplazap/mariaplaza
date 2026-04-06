@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/mariaplaza" # the subpath of your site, e.g. /blog
 url: "https://mariaplazap.github.io/mariaplaza/" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+
 
 # Author Settings
 author: María Plaza # add your name
@@ -19,9 +19,6 @@ about-author: >
   Check our research at <a href="https://graphics.unizar.es/" target="_blank" style="color: #2196f3; text-decoration: underline;">Graphics & Imaging Lab</a>
   <br><br>
   <i>(Site under construction)</i> 
-#social-twitter: # add your Twitter handle
-#social-facebook: # add your Facebook handle
-#social-github: artemsheludko # add your Github handle
 social-linkedin: maría-plaza-pérez # add your Linkedin handle
 social-email: mplaza@unizar.es # add your Email address
 
