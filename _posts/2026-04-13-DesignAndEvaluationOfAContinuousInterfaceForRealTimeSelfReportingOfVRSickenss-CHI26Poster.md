@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Design and evaluation of a continuous interface for real-time self-reporting of VR sickness: CHI 2026 Poster"
+title: "Design and evaluation of a continuous interface for real-time self-reporting of VR sickness: ACM CHI 2026 Poster"
 date: 2026-04-01 13:32:20 +0300
 #description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: HowworkANDTeaser8.png # Add image post (optional)
@@ -25,6 +25,7 @@ Precise measurements of sickness symptoms induced during a virtual reality (VR) 
 </div>
 
 ## The Poster
+Poster presented at ACM CHI 2026: [https://chi2026.acm.org/](https://chi2026.acm.org/)
 ![Poster CHI 2026]({{site.baseurl}}/assets/img/PosterChi26.png)
 
 ## Resources
