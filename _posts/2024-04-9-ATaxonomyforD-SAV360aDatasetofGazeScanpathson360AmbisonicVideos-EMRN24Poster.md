@@ -1,34 +1,24 @@
 ---
 layout: post
-title: "Design and evaluation of a continuous interface for real-time self-reporting of VR sickness: ACM CHI 2026 Poster"
-date: 2026-04-01 13:32:20 +0300
+title: "A Taxonomy for D-SAV360, a Dataset of Gaze Scanpaths on 360º Ambisonic Videos: The European Metaverse Research Network Conference 2024 Poster"
+date: 2024-04-09 13:32:20 +0300
 #description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: HowworkANDTeaser8.png # Add image post (optional)
 fig-caption:  # Add figcaption (optional)
-tags: [CHI26 Conference, Poster]
+tags: [EMRN24 Conference, Poster]
 ---
-Exploring new methods for users to report VR sickness symptoms continuously and without breaking the immersion in VR.
+A broad dataset containing a wide range of scenarios along with corresponding gaze data is essential to understand how humans visually behave within Virtual reality in order to fully leverage its potential in creating enganging experiences.
 
 ## Overview
-Precise measurements of sickness symptoms induced during a virtual reality (VR) experience are essential for evaluating VR systems and developing designs oriented toward usability, safety and user acceptance. However, VR sickness assessment typically relies either on discrete self-report questionnaires (which lack temporal resolution, interrupt the experience, thus reducing immersion, and provide coarse snapshots of symptom evolution) or on objective signals obtained with biosensors, which typically require extensive post-processing and interpretation. To address these shortcomings, we propose a continuous interface for real-time self-reporting of VR sickness, designed following a human-centered methodology. We design and evaluate three interface prototypes that allow users to report symptom intensity while remaining fully immersed in the virtual scene. Our findings demonstrate that users significantly prefer the continuous nature of our interfaces over the discrete Likert Scales of traditional questionnaires, identifying them as a more intuitive and less cognitively demanding alternative. In addition, the study allows us to identify the most suitable design according to user-centered criteria. Our contribution is an empirically evaluated continuous interface for real-time VR sickness assessment.
+Understanding how humans visually behave within virtual reality environments is essential to fully leverage its potential in creating
+enganging experiences. Therefore, it is necessary a broad dataset containing a wide range of scenarios, along with corresponding gaze data
+collected from a diverse and extensive group of observers.
+Addressing this, the dataset D-SAV360 (1) comprises the most extensive collection to date that captures gaze data in 360º videos with directional
+audio. Its breadth of configurations and content variety is summarized within our proposed taxonomy.
 
-## Video Presentation
-<div class="video-container">
-  <iframe 
-    width="100%" 
-    height="400" 
-    src="https://www.youtube.com/embed/gLMPb6QVDrA" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
 
 ## The Poster
-Poster presented at ACM CHI 2026: [https://chi2026.acm.org/](https://chi2026.acm.org/)
+Poster presented at EMRN Conference in 2024: [https://chi2026.acm.org/](https://chi2026.acm.org/)
 ![Poster CHI 2026]({{site.baseurl}}/assets/img/PosterChi26.png)
 
-## Resources
-* [Download Extended Abstract (PDF)]({{ site.baseurl }}/assets/documents/CHI26Preprint.pdf)
- _Note: CHI 2026 had an acceptance rate of 38.4% (2,068 submissions)._
 
