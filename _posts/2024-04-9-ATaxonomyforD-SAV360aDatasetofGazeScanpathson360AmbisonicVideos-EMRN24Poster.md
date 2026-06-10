@@ -15,7 +15,6 @@ Addressing this, the dataset D-SAV360 comprises the most extensive collection to
 
 
 ## The Poster
-Poster presented at EMRN Conference in 2024: [https://chi2026.acm.org/](https://chi2026.acm.org/](https://www.ub.edu/eventlab/EMRN/))
-![Poster CHI 2026]({{site.baseurl}}/assets/img/PosterEMRN24_2024.03_MetaverseForTheGood_Poster_TaxonomyD-SAV360%2C_page-0001.jpg)
-
+Poster presented at EMRN Conference in 2024: [EMRN Conference 2024](https://www.ub.edu/eventlab/EMRN/)
+![Poster EMRN 2024]({{site.baseurl}}/assets/img/PosterEMRN24_2024.03_MetaverseForTheGood_Poster_TaxonomyD-SAV360%2C_page-0001.jpg)
 
