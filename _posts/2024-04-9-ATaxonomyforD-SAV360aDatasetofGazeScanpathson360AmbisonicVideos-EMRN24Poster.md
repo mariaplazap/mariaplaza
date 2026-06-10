@@ -7,7 +7,7 @@ img: posterEMRN24head.png # Add image post (optional)
 fig-caption:  # Add figcaption (optional)
 tags: [EMRN24 Conference, Poster]
 ---
-The European Metaverse Research Network Conference 2024 - Poster: Edurne Bernal-Berdun, Maria Plaza, Daniel Martin, Sandra Malpica, Belen Masia, Ana Serrano, and Diego Gutierrez
+**The European Metaverse Research Network (EMRN) Conference 2024** - Poster: Edurne Bernal-Berdun, Maria Plaza, Daniel Martin, Sandra Malpica, Belen Masia, Ana Serrano, and Diego Gutierrez
 
 ## Overview
 Understanding how humans visually behave within virtual reality environments is essential to fully leverage its potential in creating enganging experiences. Therefore, it is necessary a broad dataset containing a wide range of scenarios, along with corresponding gaze data collected from a diverse and extensive group of observers.
