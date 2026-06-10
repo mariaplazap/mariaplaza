@@ -3,7 +3,7 @@ layout: post
 title: "The Kitchen of the Future: Testing User Experience Through Virtual Reality"
 date: 2023-12-01 13:32:20 +0300
 #description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: HowworkANDTeaser8.png # Add image post (optional)
+img: EuroXRPicture1.png # Add image post (optional)
 fig-caption:  # Add figcaption (optional)
 tags: [EuroXR23 Conference, Paper]
 ---
