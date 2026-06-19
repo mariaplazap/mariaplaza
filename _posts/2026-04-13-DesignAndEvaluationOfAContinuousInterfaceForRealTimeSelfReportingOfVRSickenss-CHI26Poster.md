@@ -35,5 +35,6 @@ Poster presented at ACM CHI 2026: [https://chi2026.acm.org/](https://chi2026.acm
 ## Resources
 * [Download Extended Abstract (PDF)]({{ site.baseurl }}/assets/documents/CHI26_Poster_Continuous_Interface_VRsickness_preprint.pdf)
 * [Download Supplemental Material (PDF)]({{ site.baseurl }}/assets/documents/CHI26_Poster_Continuous_Interface_VRsickness_Supplementary.pdf)
+  
  _Note: CHI 2026 had an acceptance rate of 38.4% (2,068 submissions)._
 
